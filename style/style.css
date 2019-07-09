@@ -106,7 +106,7 @@ p {
 }
 
 .form-view {
-    background-color: rgba(100, 100, 100,0.8);
+    background-color: rgba(100, 100, 100,0.9);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
