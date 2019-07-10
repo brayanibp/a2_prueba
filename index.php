@@ -34,7 +34,7 @@ use App\Models\{User,DBConnection};
                     </div>
                 </nav>
             ';
-            //session_destroy();
+            session_destroy();
         } else {
             echo '
                 <nav class="navbar">
